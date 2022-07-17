@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: blueviolet;
+}
+
+main>h1 {
+    color: aqua;
+}
+
+main>h2 {
+    color:blue;
+}
